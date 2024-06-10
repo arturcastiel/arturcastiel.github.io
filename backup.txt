@@ -1,0 +1,61 @@
+\begin{equation}
+    \dfrac{\partial R_\alpha}{\partial v} = 
+    =
+    \begin{bmatrix}
+    \begin{array}{c|c}
+  \partiald{R^{\Omega^{m,m}}_{\alpha}}{v} &  \partiald{R^{\Omega^{m,f}}_{\alpha}}{v} \\
+  \hline
+  \partiald{R^{\Omega^{f,m}}_{\alpha}}{v} & \partiald{R^{\Omega^{f,f}}_{\alpha}}{v}
+    \end{array}
+  \end{bmatrix}
+  =
+   \begin{bmatrix}
+    \begin{array}{c|c}
+  \begin{matrix}
+       \partiald{R^{\Omega^{m,m}}_{\alpha}}{v_{\Omega^m}}  \\
+       \partiald{R^{\Omega^{m,m}}_{\alpha}}{v_{\Omega^f}}  \\
+  \end{matrix}
+  &  
+  \begin{matrix}
+       \partiald{R^{\Omega^{m,f}}_{\alpha}}{v_{\Omega^m}}  \\
+       \partiald{R^{\Omega^{m,f}}_{\alpha}}{v_{\Omega^f}}  \\
+  \end{matrix}
+  \\
+  \hline
+  \begin{matrix}
+       \partiald{R^{\Omega^{f,m}}_{\alpha}}{v_{\Omega^m}}  \\
+       \partiald{R^{\Omega^{f,m}}_{\alpha}}{v_{\Omega^f}}  \\
+  \end{matrix}
+  & 
+  \begin{matrix}
+       \partiald{R^{\Omega^{f,f}}_{\alpha}}{v_{\Omega^m}}  \\
+       \partiald{R^{\Omega^{f,f}}_{\alpha}}{v_{\Omega^f}}  \\
+  \end{matrix}
+    \end{array}
+  \end{bmatrix}
+  =
+   \begin{bmatrix}
+    \begin{array}{c|c}
+  \begin{matrix}
+       \partiald{R^{\Omega^{m,m}}_{\alpha}}{v_{\Omega^m}}  \\
+       \partiald{R^{\Omega^{m,m}}_{\alpha}}{v_{\Omega^f}}  \\
+  \end{matrix}
+  &  
+  \begin{matrix}
+       \partiald{R^{\Omega^{m,f}}_{\alpha}}{v_{\Omega^m}}  \\
+       \partiald{R^{\Omega^{m,f}}_{\alpha}}{v_{\Omega^f}}  \\
+  \end{matrix}
+  \\
+  \hline
+  \begin{matrix}
+       \partiald{R^{\Omega^{f,m}}_{\alpha}}{v_{\Omega^m}}  \\
+       \partiald{R^{\Omega^{f,m}}_{\alpha}}{v_{\Omega^f}}  \\
+  \end{matrix}
+  & 
+  \begin{matrix}
+       \partiald{R^{\Omega^{f,f}}_{\alpha}}{v_{\Omega^m}}  \\
+       \partiald{R^{\Omega^{f,f}}_{\alpha}}{v_{\Omega^f}}  \\
+  \end{matrix}
+    \end{array}
+  \end{bmatrix}  
+\end{equation}
