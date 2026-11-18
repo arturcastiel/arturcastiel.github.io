@@ -1,0 +1,28 @@
+# Artur Castiel Reis de Souza
+
+> Reservoir Simulation Scientist at TNO, Utrecht, Netherlands.
+
+I develop numerical methods and open‑source simulators for flow in porous media, from multiscale finite volumes on unstructured grids to local grid refinement in OPM Flow.
+
+My research covers non-orthodox flux approximations and multiscale finite volume methods, applied to hydrogen storage, carbon capture & storage and enhanced geothermal systems. I am also an active contributor to the Open Porous Media (OPM) initiative.
+
+## Website sections
+- [About](https://arturcastiel.com/#about)
+- [Projects](https://arturcastiel.com/#projects)
+- [Experience](https://arturcastiel.com/#experience)
+- [Education](https://arturcastiel.com/#education)
+- [Awards](https://arturcastiel.com/#awards)
+- [Publications](https://arturcastiel.com/#publications)
+- [Skills](https://arturcastiel.com/#skills)
+- [Contact](https://arturcastiel.com/#contact)
+
+## Verified profiles
+- [ORCID](https://orcid.org/0000-0003-0722-7024)
+- [Google Scholar](https://scholar.google.com/citations?user=dRY2EE8AAAAJ)
+- [ResearchGate](https://www.researchgate.net/profile/Artur-Castiel)
+- [GitHub](https://github.com/arturcastiel)
+- [LinkedIn](https://www.linkedin.com/in/arturcastiel/)
+
+## Site
+- [Canonical website](https://arturcastiel.com/)
+- The website is the primary source for profile, research, experience, publications, education, awards, and skills.
