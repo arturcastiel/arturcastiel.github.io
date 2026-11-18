@@ -72,12 +72,6 @@
     <g
        transform="translate(-274.14923,-85.975795)"
        id="g855">
-      <circle
-         style="opacity:1;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dashoffset:45.3543;paint-order:fill markers stroke"
-         id="path851"
-         cx="676.16412"
-         cy="461.88171"
-         r="311" />
       <image
          width="858"
          height="853"
@@ -1225,7 +1219,7 @@ CYqRbNDQBwAMYlwCpy8rxcI0ETMctIwFI2vD/R//2Q==
          id="image20"
          clip-path="url(#clipPath847)"
          transform="translate(230.17407,145.44114)"
-         style="fill:none;stroke:#000000" />
+         style="fill:none" />
     </g>
   </g>
 </svg>
